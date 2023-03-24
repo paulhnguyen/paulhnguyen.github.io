@@ -10,7 +10,7 @@ redirect_from:
 
 I am an PhD student in the Department of Statistics at the University of Wisconsin--Madison. I recently graduated from Reed College with a BA in mathematics in May 2022. I am currently working on Bayesian Additive Regression Trees with Sameer Deshpande.
 
-My CV is available [here](https://skdeshpande91.github.io/files/Deshpande_cv.pdf).
+If I had one, my CV would be available [here](google.com).
 
 
 Recent Papers
