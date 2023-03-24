@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sameer K. Deshpande"
+title                    : "Paul-Hieu Nguyen"
 title_separator          : "-"
-name                     : &name "Sameer K. Deshpande"
-description              : &description "Post-doctoral Associate at MIT"
-url                      : https://skdeshpande91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Paul-Hieu Nguyen"
+description              : &description "PhD. Student at University of Wisconsin - Madison"
+url                      : https://paulhnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skdeshpande91/skdeshpande91.github.io"
+repository               : "paulhnguyen/paulhnguyen.github.io"
 teaser                   : "500x300.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter skdeshpande91
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sameer Deshpande"
-  avatar           : "SameerDeshpande_headshot.jpg"
-  bio              : "Assistant Professor at  <a href='http://www.wisc.edu'>UW-Madison</a>"
+  name             : "Paul-Hieu Nguyen"
+  avatar           : 
+  bio              : "PhD. Student at  <a href='http://www.wisc.edu'>UW-Madison</a>"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=coVrnWIAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Sameer_Deshpande4"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skdeshpande91"
+  github           : "paulhnguyen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4116-5533"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "skdeshpande91"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
