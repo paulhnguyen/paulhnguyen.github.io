@@ -1,10 +1,10 @@
 ---
 title: "GREGORY: A Modified Generalized Regression Estimator Approach to Estimating Forest Attributes in the Interior Western US" 
-collection: 'publications'
+collection: publications
 permalink: /publications/2022-01-18-gregory
 excerpt: ''
 date: 2022-01-18
-venue:
+venue: 'Fronties in Forests and Global Change'
 paperurl: https://doi.org/10.3389/ffgc.2021.763414
 citation: 'Wojcik OC, Olson SD, Nguyen P-HV, McConville KS, Moisen GG and Frescino TS (2022). &quot;GREGORY: A Modified Generalized Regression Estimator Approach to Estimating Forest Attributes in the Interior Western US.&quote; <i>Frontiers in Forests and Global Change</i>. 4:763414.'
 note: 'published'
