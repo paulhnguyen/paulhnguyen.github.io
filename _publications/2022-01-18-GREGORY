@@ -5,9 +5,9 @@ permalink: /publications/2022-01-18-gregory
 excerpt: ''
 date: 2022-01-18
 venue:
-paperurl: https://www.frontiersin.org/articles/10.3389/ffgc.2021.763414/full
-citation: 'Insert Citation'
-note: 'accepted'
+paperurl: https://doi.org/10.3389/ffgc.2021.763414
+citation: 'Wojcik OC, Olson SD, Nguyen P-HV, McConville KS, Moisen GG and Frescino TS (2022). &quot;GREGORY: A Modified Generalized Regression Estimator Approach to Estimating Forest Attributes in the Interior Western US.&quote; <i>Frontiers in Forests and Global Change</i>. 4:763414.'
+note: 'published'
 ---
 <b> Abstract </b> : 
 The national forest inventory within the US has been experiencing a greater need to estimate forest attributes over smaller geographic areas than the inventory was originally designed for. Producing reliable estimates for these areas may require the use of estimation methods beyond post-stratification. Staying within the dominant design-based paradigm, this research explores how model-assisted estimation is impacted by leveraging data outside the area of interest. In particular, we compare the performance of the post-stratified estimator, the generalized regression estimator (GREG), and a modified GREG. Typically the assisting model of the modified GREG is fit over a sample comprising all of the areas of interest. Here we introduce a modified GREG, denoted as GREGORY, which gives the practitioner a high degree of flexibility in selecting the sample subset for constructing the assisting model. We use these estimators to produce county level estimates of the mean of four forest attributes in the Interior Western US. Comparing the relative efficiencies of the estimators, we find that the more complex estimators, GREG and GREGORY, generally improve the precision of the estimates, especially in regions with a high degree of forested land. When using all the data from a 10-year measurement, fitting the model over a larger region does not lead to efficiency gains. To explore the impact of smaller sample sizes, we conduct a simulation study and find that as the sampling intensity decreases, the GREGORY tends to produce more efficient estimates than the GREG, and its variance estimator exhibits less negative bias. The GREG and GREGORY can easily be computed and compared using a new R package, gregRy, available on CRAN.
