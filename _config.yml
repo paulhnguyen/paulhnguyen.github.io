@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul-Hieu Nguyen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Paul-Hieu Nguyen"
 description              : &description "PhD. Student at University of Wisconsin - Madison"
