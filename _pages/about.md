@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an PhD student in the Department of Statistics at the University of Wisconsin--Madison. I recently graduated from Reed College with a BA in mathematics in May 2022. Currently, I am working on Bayesian Additive Regression Trees with Sameer Deshpande.
+
 The PDF version of my CV is available [here](https://paulhnguyen.github.io/files/Nguyen_2023_cv.pdf).
 
 
