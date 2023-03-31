@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-A PDF version of my full CV is available [here](https://skdeshpande91.github.io/files/Nguyen_2023_cv.pdf).
+A PDF version of my full CV is available [here](https://paulhnguyen.github.io/files/Nguyen_2023_cv.pdf).
 
