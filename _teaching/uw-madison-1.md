@@ -4,8 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/uw-madison-1
 venue: "University of Wisconsin -- Madison, Statistics"
-date: 2022-08-15
+date: 2023-09-08
 location: "Madison, USA"
 ---
 
-I have not taught any classes at UW--Madison, as I am on a fellowship for my first year. This page will be updated when I am assigned classes in the future.
+Below are the classes and years I have TA'd for during my time at UW--Madison:
+
+
+- Stat 240: Data Science Modeling I (Fall 2023)
