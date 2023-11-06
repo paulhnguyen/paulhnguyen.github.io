@@ -11,12 +11,12 @@ location: "Portland, USA"
 Below are the classes and years I have TA'd for during my time at Reed College:
 
 
+- Math 392: Mathematical Statistics (Spring 2022)
 
-- Mathematics 243 - Statistical Learning (Fall 2020)
+- Math 391: Probability (Fall 2021)
 
-- Mathematics 141 - Introduction to Probability and Statistics (Spring 2020, Spring 2021)
+- Math 243: Statistical Learning (Fall 2020)
 
-- Mathematics 391 - Probability (Fall 2021)
-
-- Mathematics 392 - Mathematical Statistics (Spring 2022)
+- Math 141: Introduction to Probability and Statistics (Fall 2019, Spring 2020, Spring
+2021)
 
