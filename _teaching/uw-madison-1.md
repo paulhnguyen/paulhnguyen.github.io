@@ -11,4 +11,4 @@ location: "Madison, USA"
 Below are the classes and years I have TA'd for during my time at UW--Madison:
 
 
-- Stat 240: Data Science Modeling I (Fall 2023, Spring 2024)
+- Stat 240: Data Science Modeling I (Fall 2023, Spring 2024) 
