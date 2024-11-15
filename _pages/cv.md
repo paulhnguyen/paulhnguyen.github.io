@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-A PDF version of my full CV is available [here](https://paulhnguyen.github.io/files/Nguyen_2023_cv.pdf).
+A PDF version of my full CV is available [here](https://paulhnguyen.github.io/files/PH-Nguyen_cv.pdf).
 
-<embed src="https://paulhnguyen.github.io/files/Nguyen_2023_cv.pdf" type="application/pdf" />
-
+<a href="files/PH-Nguyen_cv.pdf" class="image fit"><img src="files/PH-Nguyen_cv.pdf" alt=""></a>
