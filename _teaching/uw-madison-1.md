@@ -12,8 +12,10 @@ Below are the classes and years I have TA'd for during my time at UW--Madison:
 
 
 - Stat 775: Bayesian Statistics (Spring 2025) - Grader
-- Stat 628: Data Science Practicum (Spring 2025) - Grader
-- Stat 612: Statistical Inference for Data Science (Spring 2025) - Grader
+- Stat 612: Data Science Practicum (Spring 2025) - Teaching Assistant
+    - statistical analysis, written and graphical interpretations
+- Stat 628: Statistical Inference for Data Science (Spring 2025) - Teaching Assistant
+    - Statistical models, methods and theory for parameter estimation, Bayesian approach to parameter estimation, methods and theory for hypothesis tests, confidence sets, two-sample testing and ANOVA,categorical data analysis, linear regression.
 - Stat 340: Data Modeling II (Fall 2024) - Teaching Assistant
     - Topics covered:
         - basic probability models, central limit theorem, Monte Carlo simulation, hypothesis testing, Bayesian inference, linear and logistic regression, bootstrap, random forests, cross validation
