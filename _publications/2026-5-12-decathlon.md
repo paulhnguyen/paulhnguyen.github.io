@@ -5,7 +5,7 @@ permalink: /publications/2026-5-12-decathlon
 excerpt: ''
 date: 2026-05-12
 venue: ''
-paperurl: 
+paperurl: https://arxiv.org/abs/2602.17043
 citation: ''
 note: 'preprint'
 ---
