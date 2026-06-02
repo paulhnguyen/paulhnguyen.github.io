@@ -10,6 +10,7 @@ location: "Madison, USA"
 
 Below are the classes and years I have TA'd for during my time at UW--Madison:
 
+Update (June 2, 2026): Happy to announce I have received an honorable mention for an Outstanding Performance as a TA for Undergraduate Courses! 
 
 - Stat 340: Data Modeling II (Spring 2026, Fall 2024) - Teaching Assistant
     - Topics covered:
